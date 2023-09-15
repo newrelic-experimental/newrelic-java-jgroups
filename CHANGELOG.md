@@ -1,3 +1,7 @@
+## Version: [v1.0.0](https://github.com/newrelic-experimental/newrelic-java-jgroups/releases/tag/v1.0.0) | Created: 2023-09-15
+### Enhancements
+- This relese supports JGroups 3.x.x
+
 
 
 ## Installation
